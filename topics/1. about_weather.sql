@@ -1,8 +1,6 @@
---- ### Descibe Weather 
+--- ### EXPLAIN ABOUT WEATHER
 
-
-There are 3 
-AS i live in mountains , weather will be different in 3 times, let me explain in morning 
+weather will be different in 3 times, let me explain in morning 
 In morning , the sun shines and we get vitamin D, there is mild and pleasant wind , which you can enjoy .
 But once it is 9AM , then son will come to our head and it starts becoming sunny 
 
@@ -22,7 +20,7 @@ and improvise the sentences too'
 
 
 ########## Improvised ###########
-Living in the mountains, I experience distinct weather changes throughout the day. Let me explain.
+I experience distinct weather changes throughout the day. Let me explain.
 
 In the morning, the sun shines brightly, providing a healthy dose of vitamin D. A mild and pleasant breeze makes this time
 especially enjoyable.
