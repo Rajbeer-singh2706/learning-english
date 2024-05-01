@@ -16,7 +16,10 @@ SIMPLE PAST => DONE ACTION specified time in past
 PRESENT PERFECT => DONE ACTION un specified time 
 
 PRESENT PERFECT => yet , already, since , just, today , ever, never , for 
-SIMPLE PAST =>  ago , yesterday , when , did , at, last year/week/ month/ etc 
+SIMPLE PAST =>  ago , yesterday , when , did , at, last year/week/month/summer , 
+             in <2010>
+             on <SUN/MON/WED>  
+             etc 
 
 ###### ANSWERS #####
 1. has lost , left 
