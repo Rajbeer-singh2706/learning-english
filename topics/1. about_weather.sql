@@ -39,3 +39,32 @@ This is a day in my life, marked by the natural shifts in mountain weather.
 
 
 ### I have used lot of we 
+
+
+######### About RAINY DAY ##############
+To describe a rainy day, you might use various phrases and details depending on the intensity and characteristics of the rain. Here are some ways to describe it:
+
+1. **It's raining.** - Simple and straightforward.
+2. **It's a rainy day.** - Emphasizing the ongoing condition.
+3. **It's drizzling.** - Indicates light rain.
+4. **It's pouring.** - Indicates very heavy rain.
+5. **We're having showers.** - Implies intermittent rain.
+6. **It's a wet day.** - Focuses on the effect of the rain.
+7. **The rain is coming down hard.** - Describes heavy rain.
+8. **It's a misty rain outside.** - Light rain that's almost like mist.
+9. **There are light showers.** - Light, but more than a drizzle.
+10. **It's a soggy day.** - Describes the condition after prolonged rain.
+
+Each of these phrases helps to convey different aspects of the weather, making it easy to communicate the specific nature of the rain and its impact on the day.
+
+
+
+
+#### 
+It was raining before , but it has stopped now, due to rain , there is no sun shine and there is mild and pleasant breeze 
+becuse of rain , it got wet everywhere and the smell from the ground , seems too good , and it may rain again , bcoz
+weather looks like that only
+
+It was raining earlier, but it has stopped now. Due to the rain, there is no sunshine, and a mild, pleasant breeze is blowing. 
+Because of the rain, everything is wet, and the smell rising from the ground is very pleasant. It may rain again, as the weather
+still looks that way.
