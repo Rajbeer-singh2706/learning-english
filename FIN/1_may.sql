@@ -2,7 +2,7 @@ https://www.liveworksheets.com/w/en/english-second-language-esl/412148
 
 # PDF : past_simple_PP.pdf 
 
-be,was,were 
+be,[was,were] , been 
 leave, left , left 
 choose ,chose, choosen
 sell, sold , sold 
@@ -11,6 +11,10 @@ break , broke, broken
 fall fell fallen
 lose,lost,lost
 play,played,played
+fly, flew, flown
+come, came , come 
+sky,sky,sky [ noun -> it ]
+
 
 SIMPLE PAST => DONE ACTION specified time in past 
 PRESENT PERFECT => DONE ACTION un specified time 
@@ -21,6 +25,20 @@ SIMPLE PAST =>  ago , yesterday , when , did , at, last year/week/month/summer ,
              on <SUN/MON/WED>  
              etc 
 
+######### ANS ######
+was, 
+have been 
+fell 
+couldn't '
+enjoyed 
+visited 
+skated 
+have also played 
+went 
+slipped 
+broke 
+couldn't ' 
+
 ###### ANSWERS #####
 1. has lost , left 
 2. haven't played,    was  ' [ not accepting have not played or havent played ]
@@ -28,8 +46,8 @@ SIMPLE PAST =>  ago , yesterday , when , did , at, last year/week/month/summer ,
 4. haven't you chosen , bought '### 
 5. have you sold, gave
 6. has fogotten,didn't say   '### our teacher # 3rd person singluar 
-7.  has broken, fell
-8.  have sold, saw , bought
+7. has broken, fell
+8. have sold, saw , bought
 9. have finished, painted, put up 
 10. have lost, ran
 11. has passed ,took 

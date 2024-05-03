@@ -11,7 +11,7 @@
 3rd Person Prulal => THEY 
 
 
-
+The Children [Singular] => HAS 
 
 
 ######### 
